@@ -1,0 +1,108 @@
+
+
+div.Title1 , div.Title2 , div.Title3 , div.Title4, div.Title5, div.Title6, div.Title7, div.Title8, div.Title9, div.Title10{
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 70px;
+    text-transform: uppercase;
+    
+    color: #000000;
+}                   
+
+
+div.text1 , div.text2 , div.text3, div.text4 , div.text5, div.text6, div.text7, div.text8, div.text9, div.text10 {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    
+    color: #000000;
+
+}
+
+
+div.name1, div.name2 {
+
+
+    position: absolute;
+    width: 85.3px;
+    height: 20.94px;
+    left: 78.32px;
+    top: 16.35px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.1em;
+
+    color: #000000;
+}
+
+div.cardtext1 , div.cardtext2, div.cardtext3 {
+
+
+
+    
+    
+    width: 300px;
+    height: 192px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 48px;
+
+
+    text-align: center;
+
+    color: #000000;
+
+}
+
+
+
+div.word1, div.word2, div.word3 {
+
+   
+    width: 186px;
+    height: 28.02px;
+
+
+
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 25px;
+
+
+   display: flex;
+   align-items: center;
+
+   color: #333333;
+
+   
+
+
+}
+
+
+div.vector1, div.vector2, div.vector3 {
+
+
+    
+    width: 267px;
+    height: 0px;
+    
+    
+
+    border: 4px solid #4131FF;
+}
